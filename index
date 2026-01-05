@@ -1,0 +1,132 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <img src="images/CHATGPT_Image.png" alt="hinh dai dien" width="120" height="180">
+    <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xin chao</title>
+
+    <style>
+        body {
+            font-family: "Segoe UI", sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #e3f2fd, #fce4ec);
+            color: #333;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 900px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            animation: fadeIn 1s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            text-align: center;
+            color: #e91e63;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #1976d2;
+            border-left: 5px solid #1976d2;
+            padding-left: 10px;
+        }
+
+        .avatar {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+        .avatar img {
+            width: 180px;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 50%;
+            border: 5px solid #fff;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+
+        ul {
+            line-height: 1.7;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>✨ Minh ten la Van Quoc Thai✨</h1>
+
+        <div class="avatar">
+            <img src="images/CHATGPT_Image.png" alt="hinh dai dien" width="120" height="180">
+            <img src="avatar.jpg" alt="Ảnh đại diện">
+        </div>
+
+        <h2>🌟 Thông tin chung</h2>
+        <ul>
+            <li><strong>Nickname:</strong> Không có</li>
+            <li><strong>Họ tên:</strong> Van Quoc Thai</li>
+            <li><strong>Sinh năm:</strong> 200X</li>
+        </ul>
+
+        <h2>💖 Sở thích</h2>
+        <ul>
+            <li>Nghe nhạc</li>
+            <li>Chơi game</li>
+            <li>Du lịch</li>
+            <li>Code & tìm hiểu công nghệ mới</li>
+        </ul>
+
+        <h2>💪 Sở trường</h2>
+        <ul>
+            <li>Giải quyết vấn đề logic</li>
+            <li>Khả năng tự học nhanh</li>
+            <li>Thiết kế website</li>
+        </ul>
+
+        <h2>❤️ Điều mình yêu</h2>
+        <ul>
+            <li>Sự sáng tạo</li>
+            <li>Môi trường năng động</li>
+            <li>Những người truyền cảm hứng</li>
+        </ul>
+
+        <h2>💢 Điều mình ghét</h2>
+        <ul>
+            <li>Sự trì hoãn</li>
+            <li>Tiêu cực</li>
+            <li>Thiếu tôn trọng</li>
+        </ul>
+
+        <h2>🚀 Ước mơ & dự định tương lai</h2>
+        <ul>
+            <li>Trở thành một lập trình viên chuyên nghiệp</li>
+            <li>Xây dựng sản phẩm mang lại giá trị cho cộng đồng</li>
+            <li>Phát triển doanh nghiệp công nghệ riêng</li>
+        </ul>
+
+    </div>
+
+</body>
+</html>
+
+  </body>
+</html>
